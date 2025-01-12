@@ -1,1 +1,0 @@
-# TEXT-TO-QR-Generator
